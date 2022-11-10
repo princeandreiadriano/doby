@@ -1,0 +1,145 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    height: 100vh;
+    width: 100vw;
+    color: #444;
+    background-color: #ffe7e3;
+    text-align: center;
+}
+
+.container2{
+    height: 5vh;
+    width: 100vw;
+    color: #444;
+    background-color: #ffe7e3;
+}
+
+h2{
+    font-size: 72px;
+    margin-bottom: 30px;
+}
+
+.love{
+    padding-top: 20%;
+    font-style: italic;
+}
+
+.love span{
+    color: #fc9786;
+}
+
+.yesh2{
+    height: 100vh;
+    width: 100vw;
+    color: #444;
+    background-color: #ffe7e3;
+    text-align: center;
+    padding-top: 20%;
+    font-style: italic;
+}
+
+.yesh2 span{
+    color: #fc9786;
+}
+
+.noh2{
+    height: 100vh;
+    width: 100vw;
+    color: #444;
+    background-color: #ffe7e3;
+    text-align: center;
+    padding-top: 20%;
+    font-style: italic;
+}
+
+.noh2 span{
+    color: #fc9786
+}
+
+
+.love a{
+    text-decoration: none;
+    background: #eee;
+    padding: 5px;
+    margin: 5px 10px;
+    border: 3px solid #ddd;
+    border-radius: 10px;
+}
+
+.home{
+    text-decoration: none;
+    background: #eee;
+    padding: 5px;
+    margin: 5px 10px;
+    border: 3px solid #ddd;
+    border-radius: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    font-weight: bold;
+    color: #fc9786;
+    font-style: normal;
+}
+
+.no{
+    color: #fc9786;
+    padding-top: 20%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    font-weight: bold;
+    font-style: normal;
+}
+
+.yes{
+    color: #fc9786;
+    padding-top: 25%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    font-weight: bold;
+    font-style: normal;
+}
+
+.pamndoby{
+    background: #eee;
+    padding: 5px;
+    margin: 5px 10px;
+    border: 3px solid #ddd;
+    border-radius: 10px;
+    color: #fc9786;
+}
+
+.pamndoby{
+    width: 100px;
+    height: auto;
+}
+
+.pamndoby{
+    height: 100px;
+    width: auto;
+}
+
+a{
+    box-shadow: inset 0 0 0 0 #fc9786;
+    color: #fc9786;
+    margin: 0 -.25rem;
+    padding: 0 .25rem;
+    transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+}
+
+a:hover{
+    box-shadow: inset 200px 0 0 0 #fc9786;
+    color: white;
+}
+
+span{
+    box-shadow: inset 0 0 0 0 #fc9786;
+    color: #fc9786;
+    margin: 0 -.25rem;
+    padding: 0 .25rem;
+    transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+}
+
+span:hover{
+    box-shadow: inset 300px 0 0 0 #fc9786;
+    color: white;
+}
